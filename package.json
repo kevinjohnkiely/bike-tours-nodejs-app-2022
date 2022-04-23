@@ -1,0 +1,15 @@
+{
+  "name": "bike-tours",
+  "version": "1.0.0",
+  "description": "Learning node, express and mongoDB by creating a Bike Tours web application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Kevin John Kiely",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
